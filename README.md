@@ -1,2 +1,1 @@
-this is just a test
-and this is just another line
+My various config files
