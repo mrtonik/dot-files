@@ -27,4 +27,6 @@ URxvt.scrollBar: false
 URxvt.visualBell: false
 // this is SO AWESOME:
 URxvt.fading: 15
-
+URxvt.perl-ext-common: default,matcher,clipboard
+URxvt.keysym.Shift-Control-C: perl:clipboard:copy
+URxvt.keysym.Shift-Control-V: perl:clipboard:paste
