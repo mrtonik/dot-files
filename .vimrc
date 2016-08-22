@@ -1,8 +1,8 @@
 set nocompatible
 
 " Enable syntax highlighting
-syntax on
 filetype plugin indent on
+syntax on
 
 " Colorscheme see https://github.com/hukl/Smyck-Color-Scheme
 color smyck
