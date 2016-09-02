@@ -34,3 +34,5 @@ prompt suse
 
 # ignore duplication in command history
 setopt hist_ignore_dups
+
+zstyle ':completion:*' special-dirs true
